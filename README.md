@@ -15,3 +15,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 Feito com ♥ by Thiago Gomes Doudement :wave:
+
+https://thdoudement.github.io/love-story/
